@@ -121,7 +121,7 @@ p{
 }
 
 /* media */
-@media only screen and (max-width:500px) {
+@media only screen and (max-width:1500px) {
     nav ul{
         width: 100%;
         position: absolute;
