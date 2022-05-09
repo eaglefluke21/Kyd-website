@@ -155,7 +155,7 @@ nav ul li a {
 
 }
 .col-2 h5{
-    font-size: 5px;
+    font-size: 10px;
 }
 .col-1 h1{
     font-size: 22px;
@@ -167,8 +167,12 @@ nav ul li a {
 h5 a{
     text-decoration: none;
     color: white;
-    font-size: 20px;
+    font-size: 10px;
     
+}
+h5{
+    color: white;
+    font-size: 30px;
 }
 
 }
