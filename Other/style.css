@@ -150,8 +150,8 @@ nav ul li a {
 } 
 
 .col-2 .card {
-    width: 45%;
-    height: 45%;
+    width: 35%;
+    height: 42%;
 
 }
 .col-2 h5{
@@ -169,6 +169,11 @@ p{
     color: white;
     line-height: 20px;
 }
-
+h5 a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    
+}
 
 }
