@@ -150,12 +150,12 @@ nav ul li a {
 } 
 
 .col-2 .card {
-    width: 35%;
+    width: 45%;
     height: 45%;
 
 }
 .col-2 h5{
-    font-size: 1fr;
+    font-size: 15px;
 }
 .col-1 h1{
     font-size: 22px;
@@ -164,7 +164,11 @@ nav ul li a {
 .col-1 p{
     font-size: 17px;
 }
-
+p{
+    font-size: 17px;
+    color: white;
+    line-height: 20px;
+}
 
 
 }
