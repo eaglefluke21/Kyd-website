@@ -275,7 +275,7 @@ p{
  
    
    /* Mobile */
-   @media(max-width: 880px) {  
+   @media(max-width: 620px) {  
        .navbar {
            height: 110px;
        }
@@ -301,7 +301,7 @@ p{
    .stats .grid,
    .cli .grid,
    .cloud .grid {
-       grid-template-columns: 1fr;
+       grid-template-columns: 0.5fr;
       
    }
    
