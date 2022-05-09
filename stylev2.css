@@ -297,7 +297,9 @@ p{
            object-fit: cover;
      
         }
-       
+       .showcase p{
+      font-size:  10px;
+   }
           
    }
 
