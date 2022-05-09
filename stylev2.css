@@ -296,12 +296,7 @@ p{
            height: 450px;
            object-fit: cover;
      
-        }
-     showcase .grid{
-      overflow: hidden;
-      grid-template-columns: 55% 45%;
-      gap:30px;
-   }
+        }  
        
    }
 
