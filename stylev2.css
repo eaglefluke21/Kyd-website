@@ -277,7 +277,7 @@ p{
    /* Mobile */
 
 
-   @media(max-width: 680px) {  
+   @media(max-width: 500px) {  
        .navbar {
            height: 110px;
        }
@@ -297,7 +297,9 @@ p{
            object-fit: cover;
      
         }  
-       
+       .showcase-form {
+    width: 300px;
+  }
    }
 
 
