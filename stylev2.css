@@ -277,7 +277,7 @@ p{
    /* Mobile */
 
 
-   @media(min-width: 580px) {  
+   @media(max-width: 480px) {  
        .navbar {
            height: 110px;
        }
