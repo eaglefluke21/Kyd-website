@@ -131,7 +131,7 @@ p{
     }
 nav ul li{
     margin-top: 20px;
-    margin-right: 22px;
+    margin-right: 20px;
 }
 
 .row{
@@ -140,7 +140,7 @@ nav ul li{
 }
 .col-2{
     flex-basis: 100%;
-    margin-bottom: 50px;
+    margin-bottom: 40px;
 } 
 
 .col-2 .card {
@@ -152,7 +152,7 @@ nav ul li{
     font-size: 10px;
 }
 .col-1 h1{
-    font-size: 20px;
+    font-size: 10px;
 }
 
 .col-1 p{
