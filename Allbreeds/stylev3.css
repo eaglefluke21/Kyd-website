@@ -143,8 +143,11 @@ nav ul li{
     margin-bottom: 50px;
 } 
 
-.col-2 .dog {
-    width: 77%;
+.col-2 .dog{
+    height: 60%;
+    width: 40%;
+    transform: translateX(150px);
+    border-radius: 20px 0 0 20px;
 
 }
 
