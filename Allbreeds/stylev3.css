@@ -144,8 +144,8 @@ nav ul li{
 } 
 
 .col-2 .dog{
-    height: 70%;
-    width: 50%;
+    height: 60%;
+    width: 40%;
     transform: translateX(150px);
     border-radius: 20px 0 0 20px;
 
