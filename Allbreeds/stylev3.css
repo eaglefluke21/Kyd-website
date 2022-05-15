@@ -126,7 +126,7 @@ nav ul li a {
         background: linear-gradient(#ffffff, #ffffff);
         position: absolute;
         top: 75px;
-        right: 0;
+        right: 20px;
         z-index: 2;
     }
 nav ul li{
