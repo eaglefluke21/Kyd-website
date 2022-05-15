@@ -301,13 +301,7 @@ p{
        .showcase-form {
     width: 300px;
   }
-         body {
-        overflow-x: hidden;
-    }
-    .container .grid{
-        max-width: 100%;
-        overflow-x: hidden;
-    }
+      
 
    }
 
