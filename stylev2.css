@@ -292,8 +292,8 @@ p{
        }
        
        .cardv img{
-           width: 250px;
-           height: 400px;
+           width: 200px;
+           height: 350px;
            object-fit: cover;
      
         }  
